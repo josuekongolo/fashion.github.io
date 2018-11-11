@@ -1,0 +1,23 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{
+	background-color: #945657;
+}
+
+#hoved{
+	width: 50%;
+	margin-left: auto;
+	margin-right: auto;
+	
+}
+.body-content{
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+}
+.tekst h1{
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif"¨;
+	font-size: 80px;
+	color:#050505;
+}
